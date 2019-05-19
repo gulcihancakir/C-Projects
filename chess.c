@@ -5,8 +5,7 @@
 Write your code in this editor and press "Run" button to compile and execute it.
 
 *******************************************************************************/
-//Melike Turan 170101009
-//Gülcihan Cakır 170101054
+
 
 #include <stdio.h>
 #include <stdlib.h>
